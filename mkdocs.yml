@@ -1,0 +1,80 @@
+site_name: RS & GIS for Spatial Planners
+site_description: Remote sensing and GIS with Python for architects and urban planners, using Bengaluru as a case study.
+site_url: https://soniadas123.github.io/rs-gis-spatial-planner/
+repo_url: https://github.com/soniadas123/rs-gis-spatial-planner
+docs_dir: content
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
+
+copyright: 'RS & GIS for Spatial Planners, created by <a href="https://soniadas123.github.io/soniadas/" target="_blank" rel="noopener">Sonia Das</a>. See more of my work in my <a href="https://soniadas123.github.io/soniadas/" target="_blank" rel="noopener">portfolio</a>.'
+
+extra:
+  social:
+    - icon: fontawesome/solid/briefcase
+      link: https://soniadas123.github.io/soniadas/
+      name: Sonia Das - Portfolio
+    - icon: fontawesome/brands/github
+      link: https://github.com/soniadas123
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/sonia-das-77b05258/
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - tables
+  - def_list
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Getting Started: setup.md
+  - Lessons:
+    - lessons/index.md
+    - 1. Your Study Area: lessons/01_study_area.md
+    - 2. Mapping the City from OpenStreetMap: lessons/02_osm_city_map.md
+    - 3. Street Network Analysis: lessons/03_street_network.md
+    - 4. The 15-Minute City: lessons/04_15min_city.md
+    - 5. Urban Form and Buildings: lessons/05_urban_form.md
+    - 6. Satellite Imagery Basics: lessons/06_satellite_basics.md
+    - 7. Green Cover and Built-up Areas: lessons/07_green_builtup.md
+    - 8. Urban Heat Island: lessons/08_urban_heat.md
+    - 9. Urban Growth with Machine Learning: lessons/09_urban_growth.md
+    - 10. Site Suitability (Capstone): lessons/10_site_suitability.md
+  - Bonus:
+    - Citizen Data with ODK and KoboToolbox: bonus/citizen_data_odk_kobo.md
+  - Glossary: glossary.md
