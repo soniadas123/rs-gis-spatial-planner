@@ -5,6 +5,13 @@ A beginner course in remote sensing and GIS with Python for architects and urban
 - Website: https://soniadas123.github.io/rs-gis-spatial-planner/
 - Notebooks: `notebooks/` (each one opens in Google Colab from its lesson page)
 
+## Support
+
+[![GitHub stars](https://img.shields.io/github/stars/soniadas123/rs-gis-spatial-planner?style=social)](https://github.com/soniadas123/rs-gis-spatial-planner)
+
+If this course helps you, please give it a star. It is free and takes one click, and it helps other architects and planners find the course.
+Sharing it and [opening an issue](https://github.com/soniadas123/rs-gis-spatial-planner/issues) with problems or ideas helps too.
+
 ## Contributors
 
 - **Sonia Das** ([@soniadas123](https://github.com/soniadas123)): course design, lessons and the field data collection guide. [Portfolio](https://soniadas123.github.io/soniadas/)

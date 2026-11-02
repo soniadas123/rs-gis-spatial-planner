@@ -38,6 +38,8 @@ The end of the notebook includes these exercises:
 2. Change the grid cell size.
 3. Try another momepy measure.
 
+*Enjoying the course? Support it with a [star on GitHub](https://github.com/soniadas123/rs-gis-spatial-planner).*
+
 ---
 
 [Previous: Lesson 4](04_15min_city.md) | [Next: Lesson 6](06_satellite_basics.md)

@@ -39,6 +39,8 @@ The end of the notebook includes these exercises:
 2. Find the smallest ward.
 3. Try a different colour scale for the ward map.
 
+*Enjoying the course? Support it with a [star on GitHub](https://github.com/soniadas123/rs-gis-spatial-planner).*
+
 ---
 
 [All lessons](index.md) | [Next: Lesson 2](02_osm_city_map.md)

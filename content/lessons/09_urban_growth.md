@@ -38,6 +38,8 @@ The end of the notebook includes these exercises:
 2. Train without the indices.
 3. Use fewer trees.
 
+*Enjoying the course? Support it with a [star on GitHub](https://github.com/soniadas123/rs-gis-spatial-planner).*
+
 ---
 
 [Previous: Lesson 8](08_urban_heat.md) | [Next: Lesson 10](10_site_suitability.md)

@@ -32,7 +32,7 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
-copyright: 'RS & GIS for Spatial Planners, created by <a href="https://soniadas123.github.io/soniadas/" target="_blank" rel="noopener">Sonia Das</a>. See more of my work in my <a href="https://soniadas123.github.io/soniadas/" target="_blank" rel="noopener">portfolio</a>.'
+copyright: 'RS & GIS for Spatial Planners, created by <a href="https://soniadas123.github.io/soniadas/" target="_blank" rel="noopener">Sonia Das</a>. See more of my work in my <a href="https://soniadas123.github.io/soniadas/" target="_blank" rel="noopener">portfolio</a>. Found it useful? <a href="https://github.com/soniadas123/rs-gis-spatial-planner" target="_blank" rel="noopener">Star it on GitHub</a>.'
 
 extra:
   social:

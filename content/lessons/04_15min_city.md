@@ -38,6 +38,8 @@ The end of the notebook includes these exercises:
 2. Use a slower walking speed for elderly people.
 3. Compare with Electronic City.
 
+*Enjoying the course? Support it with a [star on GitHub](https://github.com/soniadas123/rs-gis-spatial-planner).*
+
 ---
 
 [Previous: Lesson 3](03_street_network.md) | [Next: Lesson 5](05_urban_form.md)

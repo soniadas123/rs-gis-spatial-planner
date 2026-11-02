@@ -39,6 +39,8 @@ The end of the notebook includes these exercises:
 2. Add bus stations or libraries.
 3. Add water bodies with `natural=water`.
 
+*Enjoying the course? Support it with a [star on GitHub](https://github.com/soniadas123/rs-gis-spatial-planner).*
+
 ---
 
 [Previous: Lesson 1](01_study_area.md) | [Next: Lesson 3](03_street_network.md)

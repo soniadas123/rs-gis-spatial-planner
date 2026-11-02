@@ -39,6 +39,8 @@ The end of the notebook includes these exercises:
 2. Move the box to the airport.
 3. Add a point for Bellandur Lake.
 
+*Enjoying the course? Support it with a [star on GitHub](https://github.com/soniadas123/rs-gis-spatial-planner).*
+
 ---
 
 [Previous: Lesson 5](05_urban_form.md) | [Next: Lesson 7](07_green_builtup.md)

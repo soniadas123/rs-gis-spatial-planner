@@ -38,6 +38,8 @@ The end of the notebook includes these exercises:
 2. Test a different NDVI threshold.
 3. Look up your own ward.
 
+*Enjoying the course? Support it with a [star on GitHub](https://github.com/soniadas123/rs-gis-spatial-planner).*
+
 ---
 
 [Previous: Lesson 6](06_satellite_basics.md) | [Next: Lesson 8](08_urban_heat.md)

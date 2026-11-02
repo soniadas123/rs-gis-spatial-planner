@@ -38,6 +38,8 @@ The end of the notebook includes these exercises:
 2. Change the hot spot threshold.
 3. Check the hottest ward on a satellite basemap.
 
+*Enjoying the course? Support it with a [star on GitHub](https://github.com/soniadas123/rs-gis-spatial-planner).*
+
 ---
 
 [Previous: Lesson 7](07_green_builtup.md) | [Next: Lesson 9](09_urban_growth.md)

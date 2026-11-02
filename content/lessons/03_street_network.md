@@ -38,6 +38,8 @@ The end of the notebook includes these exercises:
 2. Switch to the drive network.
 3. Test a larger study area.
 
+*Enjoying the course? Support it with a [star on GitHub](https://github.com/soniadas123/rs-gis-spatial-planner).*
+
 ---
 
 [Previous: Lesson 2](02_osm_city_map.md) | [Next: Lesson 4](04_15min_city.md)

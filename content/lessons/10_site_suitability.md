@@ -43,6 +43,9 @@ The end of the notebook includes these exercises:
 4. Add the heat layer to the web map.
 5. Add the ward boundaries to the web map.
 
+!!! success "You finished the course!"
+    Thank you for learning with us. If the course helped you, please **[give it a star on GitHub](https://github.com/soniadas123/rs-gis-spatial-planner)** and share it with a colleague or a student. Stars help other planners find it.
+
 ---
 
 [Previous: Lesson 9](09_urban_growth.md) | [Glossary](../glossary.md)

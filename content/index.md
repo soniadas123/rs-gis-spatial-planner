@@ -23,6 +23,15 @@ notebooks that run in your web browser.
 
 New to Colab? Start with [Getting Started](setup.md).
 
+## Support this project
+
+[![GitHub stars](https://img.shields.io/github/stars/soniadas123/rs-gis-spatial-planner?style=social)](https://github.com/soniadas123/rs-gis-spatial-planner)
+
+If this course helps you, please **[give it a star on GitHub](https://github.com/soniadas123/rs-gis-spatial-planner)**.
+It is free and takes one click, and it helps other architects and planners find the course.
+You can also support it by sharing it with your colleagues and students, or by
+[reporting a problem or suggesting a lesson](https://github.com/soniadas123/rs-gis-spatial-planner/issues).
+
 ## The course
 
 | # | Lesson | Planning question | You will use |
