@@ -63,6 +63,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Getting Started: setup.md
+  - Data: data.md
   - Lessons:
     - lessons/index.md
     - 1. Your Study Area: lessons/01_study_area.md

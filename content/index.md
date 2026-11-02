@@ -53,15 +53,10 @@ once you are comfortable with the data. There you turn your results into a Leafl
 It goes from designing a phone form to putting citizen reports on a public map. Satellites and OpenStreetMap cannot tell you
 where garbage piles up or which footpaths are broken. Citizens can.
 
-## Data used
+## Data
 
-All data is free and open, and you do not need an account or API key.
+Every good analysis starts with a clear **research question**, and the data comes second.
+The [Data](data.md) page shows how to go from a planning question to the data you need, and lists good free sources:
+USGS (Landsat, DEMs, CORONA), Bhoonidhi and Bhuvan for Indian satellite data, OpenStreetMap, WorldPop and more.
 
-- [OpenStreetMap](https://www.openstreetmap.org): roads, buildings, parks, schools
-- [DataMeet Municipal Spatial Data](https://github.com/datameet/Municipal_Spatial_Data): BBMP ward boundaries
-- [Sentinel-2](https://planetarycomputer.microsoft.com/dataset/sentinel-2-l2a): 10 m satellite imagery
-- [Landsat 8 and 9](https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2): land surface temperature
-- [ESA WorldCover](https://planetarycomputer.microsoft.com/dataset/esa-worldcover): land cover map
-- [Copernicus DEM](https://planetarycomputer.microsoft.com/dataset/cop-dem-glo-30): elevation
-
-Satellite data is accessed through the [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com).
+All data used in this course is free and open, and the notebooks download it automatically, with no account or API key needed.
